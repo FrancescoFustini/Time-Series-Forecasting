@@ -8,7 +8,7 @@
 
 ## Abstract 
 
-L’elaborato espone diversi approcci utilizzati per fare previsioni suuna serie storica rappresentate le rilevazioni di monossido di carbonio (CO). I daticoprono a livello orario il periodo che parte dalle ore 18:00 del 10 marzo 2004alle ore 23:00 del 28 febbraio 2005. Le previsioni effettuate sono su tutto il mesesuccessivo.  Per lo scopo sono stati provati diversi modelli sia lineari (**ARIMA**, **UCM**) che di machine learning (**k-NN**, **LSTM**, **GRU**), per la scelta del modello lametrica utilizzata è il Mean Absolute Percentage Error.
+L’elaborato espone diversi approcci utilizzati per fare previsioni su una serie storica rappresentate le rilevazioni di monossido di carbonio (CO). I dati coprono a livello orario il periodo che parte dalle ore 18:00 del 10 marzo 2004 alle ore 23:00 del 28 febbraio 2005. Le previsioni effettuate sono su tutto il mese successivo.  Per lo scopo sono stati provati diversi modelli sia lineari (**ARIMA**, **UCM**) che di machine learning (**k-NN**, **LSTM**, **GRU**), per la scelta del modello la metrica utilizzata è il Mean Absolute Percentage Error.
 
 ## Team
 
