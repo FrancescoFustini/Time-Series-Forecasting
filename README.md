@@ -12,7 +12,5 @@ L’elaborato espone diversi approcci utilizzati per fare previsioni suuna serie
 
 ## Team
 
-- Francesco Fustini <a href = "https://www.linkedin.com/in/francesco-fustini-3158b115a/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a><a href = "https://github.com/FrancescoFustini"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/github.png" width = "2%"></a>:
-    - Triennale: Scienze Statistiche ed Economiche | Università degli Studi di Milano-Bicocca;
-    - Magistrale: Data Science | Università degli Studi di Milano-Bicocca;
+- Francesco Fustini <a href = "https://www.linkedin.com/in/francesco-fustini-3158b115a/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a><a href = "https://github.com/FrancescoFustini"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/github.png" width = "2%"></a>
 
