@@ -2,7 +2,7 @@
 <img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/Logo-Bicocca.png"/>
 </p>
 
-# Time-Series-Forecasting
+# Time Series Forecasting
 
 ##### Progetto per l'esame di Streaming Data Management and Time Series Analysis del corso di laurea magistrale in Data Science all'università UniMiB
 
